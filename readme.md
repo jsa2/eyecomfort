@@ -46,13 +46,16 @@ Color accuracy is not big factor, neither SRGB coverage (Anything after 60% beco
 
 ## Measurement results
 
-### Measurement device
+### Measurement device and software
 Calibrite display (Former X-rite DisplayPro)
 
 All measurements are done at 80-120 cd/m2 as it is the level of brightness I typically would compare to something printed.
 
 *"The brightness of your monitor, if set too high will tire your eyes and misrepresent the actual brightness of your images. Get it set between 80-120cd/m2, it will become way more comfortable to work, specially for those who spend long hours in front of the monitor and it will match the correct brightness of your images."* [reference](https://www.imageprintcentre.co.uk/blog-1/color-calibrate-your-monitor-for-printing-purposes)
 
+The results were obtained by great software https://displaycal.net/
+
+### results
 
 Panel | contrast | black level | Gamut <sup> srgb</sup> | luminance | notes | tech 
 -|-|-|-|-|-|-
