@@ -19,10 +19,12 @@ I do mostly programming and documentation on my devices. So reading and writing 
 ### Panel types and subjective experiences
 My personal preference is the AAS type IPS panels from CMN/Innolux which I've been using with various laptops for past 3-4 years. Can't quite describe it, but it feels like the panel techs "geometry" for the lack of better word suits my eyes. Certain display types seem "flat", as if the there is something irritating "pushing" throug the white color. 
 
+AAS Panels I've used with: Zephyrus G15 (144hz), MSI Prestige 15 and Lenovo Thinkpad P52
+
 **Experiences besides AAS type panels**
 
 - ✅ LG / Philips (IPS)
-  - Seems to fit for my use just as well as AAS type panels
+  - Seems to fit for my use just as well as AAS type panels (Used with various Microsoft Surface Devices)
 - ✅ AUO Optronics (AHVA)
   - Use it as one of my desktop displays
 - ✅ Lenovo thinkvision displays (IPS, but panel manufacturer not defined)
