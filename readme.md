@@ -39,7 +39,7 @@ My personal preference is the AAS type IPS panels from CMN/Innolux which I've be
 Optimal Black level for me at 100-120 cd/m² brightness is anything below 0.13-0.15 cd/m²
 
 #### SRGB coverage
-Color accuracy is not big factor, neither SRGB coverage (Anything after 60% becomes fairly acceptable, with color deviations )
+Color accuracy is not big factor, neither SRGB coverage (Anything after 60% becomes fairly acceptable, with certain subjective levels of color deviations )
 
 
 ## Measurement results
