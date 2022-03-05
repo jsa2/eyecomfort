@@ -18,8 +18,8 @@ Judging by the specifications and visual appearance (table stand, back of the de
 - 100Hz refresh rate
 - 1440p 
 - 1 x HDMI 1.4, 1 x DisplayPort 1.2, USB-C (Gen 3.1, Power Delivery 65 W)
-- 90% DCI-P3(Typ)
-  - Please note, that the measurements for this review were done targeting standard SRGB range
+- 90% DCI-P3
+  - Please note, that the measurements for this review were done targeting standard SRGB range, where it achieves 99.1% SRGB. Activating the wide gamut likely exceeds this number.
 - Freesync 
   - The verkkokauppa.com specification omits this, but it just like its sibling [Pixio PX275C](https://www.amazon.com/Pixio-Displayport-Charging-FreeSync-Productivity/dp/B09M56MQ7R?th=1), 
 
