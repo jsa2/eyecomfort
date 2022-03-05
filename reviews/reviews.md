@@ -63,6 +63,7 @@ Calibrite display (Former X-rite DisplayPro) and [displayCal](https://displaycal
 ![img](M27WQHD2.png)
 
 #### Testing freesync (non certified G-Sync compatible)
-I did a brief test with the NVIDIA GSYNC indicator to see if the G-Sync would be working
+I did a brief test with the NVIDIA GSYNC indicator to see if the G-Sync would be working. Opposed to the verkkokauppa.com specification the freesync indeed seems to be working.
+  - Test was done with USB-C data connection
 
 ![img](img/frees.png)
