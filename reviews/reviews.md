@@ -38,6 +38,7 @@ Judging by the specifications and visual appearance (table stand, back of the de
 - Great bezel-less design (non-gamery) - Good for work use, no blinking leds :) 
 - Even backlight and light uniformity (subjective opinion)
 - 100 hz refresh for gaming is great upgrade from comparable USB-C (60hz) equiped monitors
+- No external power supply (easier for cable management)
   
 **Cons**
 
