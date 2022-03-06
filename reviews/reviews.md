@@ -56,6 +56,9 @@ Unknown | 1057:1| 0.1602 cd/m²|99.1% |98.5 cd/m²
 
 #### Calibrated results
 
+[pdf version download](M27WQHD-DisplayCal.pdf)
+
+
 **Measurement device and software**
 Calibrite display (Former X-rite DisplayPro) and [displayCal](https://displaycal.net/)
 
