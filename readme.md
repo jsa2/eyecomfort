@@ -33,6 +33,7 @@ AAS Panels I've used with: Zephyrus G15 (144hz), MSI Prestige 15 and Lenovo Thin
     - Causes immediate irritation. [Tested on Zephyrus G15](https://www.reddit.com/r/ZephyrusG15/comments/sror1n/zephyrus_g15_ga503qm_panel_now_boe_was_innolux/) and Lenovo Legion Slim 7
 - ❌ Sharp (IPS-["New Mode2"]((https://www.panelook.com/LP123WQ1-SPA1_LG%20Display_12.3_LCM_overview_51959.html)))
     - Causes immediate irritation. Tested on x13 flow (Which is now used as server desktop, and with external display)
+    ✅- incidentally using similar display on z13 flow (Which has similar panel) there is no eye strain (Could be related to way AMD IGPU drives the display?)
 - ❌ LEN140WQ+, (Lenovo Yoga Pro)
     - Causes immediate irritation 
     - The oled model (with samsung Panel) did cause less irritation, though it comes with PWM, but I can't confirm if my eyes are sensitive to it
